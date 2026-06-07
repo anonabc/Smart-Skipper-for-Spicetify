@@ -1,0 +1,8 @@
+{
+  "name": "Smart Skipper Core",
+  "description": "Automatically skips tracks based on history or playlist presence with low RAM usage and a native toggle UI.",
+  "main": "smart-skipper-core.js",
+  "authors": ["anonabc"],
+  "version": "1.0.0",
+  "preview": ""
+}
