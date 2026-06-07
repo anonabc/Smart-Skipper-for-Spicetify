@@ -18,7 +18,7 @@ Alternatively, you can find the extension in the spicetify marketplace.
 
 Download `smart-skipper-core.js` and place it inside your Spicetify Extensions directory:
 
-- **Windows:** `%appdata%\Spotify\Apps\xpui\extensions\` or `%userprofile%\.spicetify\Extensions\`
+- **Windows:** `%appdata%\spicetify\Extensions\`
 - **Linux:** `~/.config/spicetify/Extensions/`
 - **MacOS:** `~/.config/spicetify/Extensions/`
 
