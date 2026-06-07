@@ -16,4 +16,5 @@ The easiest way to find this folder on any operating system is to open your term
 Open your terminal or command prompt and execute the following commands:
 
 `spicetify config extensions smart-skipper-core.js`
+
 `spicetify apply`
