@@ -1,5 +1,6 @@
-# Smart-Skipper-for-Spicetify
+# Smart Skipper for Spicetify
 
+Have you ever wanted to discover new songs? I developed this extension to automatically skip songs i have already heard and/or are in one of my playlists.
 - Automatically skips a track if it is already present in any of your existing playlists, **unless you are currently playing one of the playlists that contains it**.
 - Keeps track of your last 1,000 played tracks and automatically skips them if they come up again in shuffle rotation.
 - Adds two native-looking toggles to the Spotify top bar: **Playlist Skip** and **History Skip**.
